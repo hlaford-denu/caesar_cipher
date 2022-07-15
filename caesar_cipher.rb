@@ -1,3 +1,12 @@
+#CAESAR CIPHER
+#
+# 15.07.2022
+#
+# A very simple example of a Caesar Cipher program written in Ruby.
+
+
+#prompt the user and ask for a phrase and a shift factor
+
 print "Choose a word : "
 word = gets.chomp
 new_word = ""
